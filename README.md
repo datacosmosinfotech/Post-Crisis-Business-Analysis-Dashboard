@@ -5,14 +5,21 @@ This dashboard analyzes the impact of a crisis beginning in June 2025 and evalua
 It measures revenue decline, churn, retention, recovery rate, and recoverable revenue opportunity to assess business stability and recovery potential.
 
 ## Preview
+![Business Crisis Analysis Dashboard](https://github.com/datacosmosinfotech/Post-Crisis-Business-Analysis-Dashboard/raw/main/Business%20Crisis%20Analysis%20Dashboard%20SS.png)
 
 
 ## 🎯 Objectives
+
 ●Quantify revenue drop after crisis
+
 ●Measure customer churn and retention
+
 ●Compare pre vs post crisis customer base
+
 ●Identify recoverable revenue opportunity
+
 ●Analyze city level revenue impact
+
 ●Evaluate per customer revenue importance
 
 ## 🧩 Executive KPIs
@@ -75,7 +82,7 @@ Recovery efforts show potential but have not fully stabilized revenue.
 
 Customer level contribution becomes critical during a revenue shock.
 
-### 📊 Revenue Per Lost Customer
+## 📊 Revenue Per Lost Customer
 
 Lost customers = 50K
 
@@ -83,7 +90,7 @@ Recoverable revenue = ₹2.91M
 
 ₹2.91M ÷ 50,000 ≈ ₹58 per lost customer
 
-### 💰 Financial Meaning
+## 💰 Financial Meaning
 
 1 lost customer ≈ ₹58 impact
 
@@ -93,7 +100,7 @@ Recoverable revenue = ₹2.91M
 
 Even small retention improvements can generate meaningful revenue recovery.
 
-### 📌 Why It Matters
+## 📌 Why It Matters
 
 Improving retention from 36.82% to 45% can significantly increase revenue
 
@@ -103,7 +110,7 @@ Revenue stability depends on frequency, order value, and lifetime value
 
 Retention is directly linked to revenue protection.
 
-### 🏙 City Level Observations
+## 🏙 City Level Observations
 
 Revenue decline observed across all major cities
 
