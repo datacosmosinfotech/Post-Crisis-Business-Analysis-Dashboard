@@ -245,23 +245,6 @@ Maintain real-time revenue resilience dashboard
 
 This enables faster response in future operational disruptions.
 
-## 📌 Strategic Takeaway
-
-The crisis revealed that customer retention is the primary driver of revenue stability.
-
-While revenue dropped sharply, recovery potential remains strong.
-
-Sustainable growth will depend on:
-
-Strengthening retention
-
-Protecting high value customers
-
-Improving lifetime value
-
-Implementing proactive churn monitoring
-
-Retention is not just a marketing metric — it is a revenue protection strategy.
 
 ## 👩‍💼 Author
 
