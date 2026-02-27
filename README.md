@@ -48,6 +48,17 @@ Post-Crisis Active Customers
 Total Recoverable Revenue
 ₹2.91M
 
+### Crisis marker (June 2025 logic applied via DAX)
+Crisis Logic
+
+Crisis date marker used:
+
+June 1, 2025
+
+Transactions before this date are classified as Pre-Crisis.
+
+Transactions after this date are classified as Post-Crisis.
+
 ## 🔎 Key Insights
 
 1️⃣ Revenue Impact
@@ -82,7 +93,7 @@ Recovery efforts show potential but have not fully stabilized revenue.
 
 Customer level contribution becomes critical during a revenue shock.
 
-## 📊 Revenue Per Lost Customer
+ 📊 Revenue Per Lost Customer
 
 Lost customers = 50K
 
@@ -90,7 +101,7 @@ Recoverable revenue = ₹2.91M
 
 ₹2.91M ÷ 50,000 ≈ ₹58 per lost customer
 
-## 💰 Financial Meaning
+ 💰 Financial Meaning
 
 1 lost customer ≈ ₹58 impact
 
@@ -110,7 +121,7 @@ Revenue stability depends on frequency, order value, and lifetime value
 
 Retention is directly linked to revenue protection.
 
-## 🏙 City Level Observations
+ 🏙 City Level Observations
 
 Revenue decline observed across all major cities
 
@@ -174,17 +185,6 @@ Date
 Month
 
 Year
-
-### Crisis marker (June 2025 logic applied via DAX)
-Crisis Logic
-
-Crisis date marker used:
-
-June 1, 2025
-
-Transactions before this date are classified as Pre-Crisis.
-
-Transactions after this date are classified as Post-Crisis.
 
 ## Conclusion
 The crisis resulted in:
