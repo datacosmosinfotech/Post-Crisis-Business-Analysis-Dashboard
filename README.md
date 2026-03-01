@@ -5,7 +5,7 @@ This dashboard analyzes the impact of a crisis beginning in June 2025 and evalua
 It measures revenue decline, churn, retention, recovery rate, and recoverable revenue opportunity to assess business stability and recovery potential.
 
 ## Preview
-![Food Startup Business Analysis Dashboard](https://github.com/datacosmosinfotech/Post-Crisis-Business-Analysis-Dashboard/blob/main/Food%20Startup%Business%20Analysis%20Dashboard.png?raw=true)
+https://raw.githubusercontent.com/datacosmosinfotech/Post-Crisis-Business-Analysis-Dashboard/main/Food%20Startup%20Business%20Analysis%20Dashboard.png
 
 ## 🎯 Objectives
 
